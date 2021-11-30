@@ -62,4 +62,6 @@ enum class RallyScreen(
                 else -> throw IllegalArgumentException("Route $route is not recognized.")
             }
     }
+
+
 }
